@@ -15,7 +15,7 @@ PAC-Fault-Diagnosis-KG-BNN/
 ├── evaluate.py            # Precision / Recall / F1 metrics
 ├── main.py                # 5-fold runs → Table 2 output
 └── data/                  # Dataset directory (not in repo)
-    ├── features.csv       # 30 features (20 sensor + 10 KG)
+    ├── features.csv       # features 
     └── labels.csv         # Class labels (0-3)
 ```
 
